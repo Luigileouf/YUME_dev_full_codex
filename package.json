@@ -1,0 +1,7 @@
+{
+  "name": "yume-dev-full-codex",
+  "private": true,
+  "scripts": {
+    "test": "pnpm -C backend test"
+  }
+}
